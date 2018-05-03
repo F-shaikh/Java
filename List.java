@@ -1,4 +1,4 @@
-//By: Faisal Shaikh
+// Faisal Shaikh
 public class List {
         // class List Data
         private int cursorIndex; // Index of current element that cursor is pointing at
