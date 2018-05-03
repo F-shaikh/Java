@@ -1,4 +1,4 @@
-//By: Faisal Shaikh
+// Faisal Shaikh
 //-----------------------------------------------------------------------------
 //  ListClient.java
 //  A test client for the List ADT. Use this to test your list module. The
