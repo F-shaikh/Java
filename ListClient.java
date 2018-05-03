@@ -1,8 +1,3 @@
-// Faisal Shaikh
-// ID #: 1463626
-// Fshaikh1@ucsc.edu
-// PA1
-
 //-----------------------------------------------------------------------------
 //  ListClient.java
 //  A test client for the List ADT. Use this to test your list module. The
