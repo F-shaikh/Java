@@ -1,4 +1,3 @@
-//By: Faisal Shaikh
 MAINCLASS  = Lex
 JAVAC      = javac 
 JAVASRC    = $(wildcard *.java)
