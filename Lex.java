@@ -1,8 +1,3 @@
-// Faisal Shaikh
-// ID #: 1463626
-// Fshaikh1@ucsc.edu
-// PA1
-
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
