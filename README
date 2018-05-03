@@ -1,10 +1,3 @@
-Faisal Shaikh
-ID #: 1463626
-Fshaikh1@ucsc.edu
-Pa1
-
-FILES SUBMITTED
-
 List.java        ... Contains public class List. Creates a doubly linked list with manipulation functions and access functions to be used on the list.
 ListClient.java  ... Provided on webpage. Used to test List.java and provides output.
 Lex.java         ... Used to I/O files and contains a sort algorithm to sort in lexicographic order.
