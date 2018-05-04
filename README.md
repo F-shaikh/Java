@@ -1,2 +1,2 @@
 # Java
-Java programs made for Algorithm Analysis Class
+Java List ADT made for Algorithm Analysis Class.
